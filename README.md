@@ -36,16 +36,28 @@
 - The Price will return in BRl currency.
 
 # Download solution.
+- Libraries to install:
+  - ```commandline
+    pip install pandas
+    pip install pathlib
+    pip install numpy
+    pip install seaborn
+    pip install matplotlib
+    pip install plotly
+    pip install sklearn
+    ```
 - Comprised of a Data set and one Python File.
   - <a id="raw-url" href="https://drive.google.com/file/d/1_GwEdPOgkAgLQgOFFWO7mRBdZuldqsUq/view?usp=sharing">DataSet</a>
   - On Jupyter
     - <a id="raw-url" href="https://github.com/FelipeGuerra5/Airbnb_Rio/blob/main/Solution_Airbnb_Rio.ipynb">Solution.ipynb</a>
   - Other python IDE
     - <a id="raw-url" href="https://github.com/FelipeGuerra5/Airbnb_Rio/blob/main/Solution_Airbnb_Rio.py">Solution.py</a>
-
+  
 # Worth mentioning
 - This project is only to be used as tutorial.
   - The data is recent but not up to date.
   - The I.A. had only 0.4 M lines to train, so it is not that precise.
+  - Running it on Jupyter is better due to the time spent to run all code.
+    - This way you can do it in parts.
 
 - For the time being the instructions are in Pt-Br, however a pretend to translate them soon.
